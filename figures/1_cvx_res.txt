@@ -1,0 +1,31 @@
+****************************************************************
+Aloe_disp1_512.png
+ --- samples (number=1311, percentage=2%)
+ ---    naive: time=138.28ms, mae=0.0319, rmse=0.073, mse=0.00533, psnr=21.1dB (high is good)
+ ---  L1-diag: time=7.0777e+05ms, mae=0.0289, rmse=0.069, mse=0.00476, psnr=21.6dB (high is good)
+****************************************************************
+Art_disp1_512.png
+ --- samples (number=1311, percentage=2%)
+ ---    naive: time=148.67ms, mae=0.0246, rmse=0.0576, mse=0.00332, psnr=22.6dB (high is good)
+ ---  L1-diag: time=5.8904e+05ms, mae=0.0216, rmse=0.0538, mse=0.0029, psnr=23.2dB (high is good)
+****************************************************************
+Baby2_disp1_512.png
+ --- samples (number=1311, percentage=2%)
+ ---    naive: time=143.53ms, mae=0.0102, rmse=0.0347, mse=0.00121, psnr=24.5dB (high is good)
+ ---  L1-diag: time=5.3562e+05ms, mae=0.0083, rmse=0.0316, mse=0.000996, psnr=25.4dB (high is good)
+****************************************************************
+Dolls_disp1_512.png
+ --- samples (number=1311, percentage=2%)
+ ---    naive: time=138.44ms, mae=0.0151, rmse=0.0472, mse=0.00223, psnr=24.8dB (high is good)
+ ---  L1-diag: time=5.2733e+05ms, mae=0.0116, rmse=0.0407, mse=0.00165, psnr=26.1dB (high is good)
+****************************************************************
+Moebius_disp1_512.png
+ --- samples (number=1311, percentage=2%)
+ ---    naive: time=136.47ms, mae=0.0153, rmse=0.0541, mse=0.00292, psnr=24dB (high is good)
+ ---  L1-diag: time=5.9204e+05ms, mae=0.0116, rmse=0.0457, mse=0.00209, psnr=25.4dB (high is good)
+****************************************************************
+Rocks1_disp1_512.png
+ --- samples (number=1311, percentage=2%)
+ ---    naive: time=187.59ms, mae=0.0178, rmse=0.0599, mse=0.00359, psnr=20.9dB (high is good)
+ ---  L1-diag: time=6.1071e+05ms, mae=0.0136, rmse=0.0552, mse=0.00305, psnr=21.6dB (high is good)
+>> 
