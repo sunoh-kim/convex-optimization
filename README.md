@@ -2,8 +2,8 @@
 
 
 This repository contains my assignment solution for the Convex Optimization course (430.709A_001) offered by Seoul National University (Fall 2018).
-Based on the library [sparse-depth-sensing](https://github.com/sparse-depth-sensing/sparse-depth-sensing), which contains MATLAB codes and data for sparse depth sensing, I used different solver [CVX](http://cvxr.com/cvx/).
-Sparse depth sensing is the problem of dense depth image reconstruction from very limited amount of measurements. 
+Based on the library [sparse-depth-sensing](https://github.com/sparse-depth-sensing/sparse-depth-sensing), which contains MATLAB codes and data for sparse depth sensing, I used a different solver [CVX](http://cvxr.com/cvx/).
+Sparse depth sensing is the problem of dense depth image reconstruction from limited amount of measurements. 
 Please refer to the paper [*Sparse Depth Sensing for Resource-Constrained Robots*](https://arxiv.org/abs/1703.01398).
 
 ## Requirement
